@@ -10,7 +10,7 @@ chatbot that uses Natural language processing NLP to  learn from a specified cor
 
 ![Image image_filename](sample.png)
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
