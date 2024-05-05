@@ -48,5 +48,5 @@ To get started with the **Corpus Learning Chatbot** solution repository, follow 
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](corpus_learning_chatbot.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](corpus_learning_chatbot.png)  <br>
     
