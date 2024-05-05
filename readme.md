@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Corpus Learning Chatbot - chatbot that uses Natural language processing NLP to  learn from a specified corpus
 chatbot that uses Natural language processing NLP to  learn from a specified corpus
 
@@ -9,8 +11,6 @@ Welcome to the solution **Corpus Learning Chatbot** - an example for your projec
 chatbot that uses Natural language processing NLP to  learn from a specified corpus
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
