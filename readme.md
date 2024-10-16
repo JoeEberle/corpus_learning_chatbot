@@ -39,11 +39,8 @@ To get started with the **Corpus Learning Chatbot** solution repository, follow 
  ![additional_image](corpus_learning_chatbot.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
