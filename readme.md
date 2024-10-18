@@ -2,7 +2,7 @@
 Welcome to the solution **Corpus Learning Chatbot** - an example for your projects
 
 chatbot that uses Natural language processing NLP to  learn from a specified corpus
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
